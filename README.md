@@ -1,4 +1,4 @@
-# Data-Extraction-and-NLP
+# Streamlining Data Extraction and Feature Engineering with Web Scraping
 Objective  : The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 # Step1:	Data Extraction
  Extraction of the article text using USE BEATIFULSOUP and SELENIUM library  and save the extracted article in a text file with URL_ID as its file name.
